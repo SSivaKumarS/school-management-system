@@ -1,18 +1,4 @@
-#  SchoolFinder — Mini School Management Module
-
-A full-stack web application to browse, search, and filter schools across India. Built with **Flutter Web** (frontend) and **Node.js + Express** (backend), featuring clean architecture, responsive UI, and production-ready code.
-
----
-
-##  Screenshots
-
-> _Add your screenshots here after running the app._
-
-| Home / Listing Page | Search & Filter | School Detail |
-|---|---|---|
-| ![Home](screenshots/home.png) | ![Filter](screenshots/filter.png) | ![Detail](screenshots/detail.png) |
-
----
+#  SchoolFinder — Mini School Management Module 
 
 ##  Tech Stack
 
@@ -96,7 +82,7 @@ cd frontend && flutter run -d chrome
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
