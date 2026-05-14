@@ -1,4 +1,4 @@
-# 📡 API Documentation
+#  API Documentation
 
 ## School Management API — v1.0.0
 
@@ -77,9 +77,8 @@ Returns a single school matching the provided numeric ID.
 
 **Path Parameters**
 
-| Param | Type | Description |
-|-------|------|-------------|
-| `id`  | integer | School ID (1–5) |
+ Param  Type  Description 
+`id`   integer  School ID (1–5) 
 
 **Response `200 OK`**
 ```json
@@ -139,11 +138,10 @@ All errors return a consistent structure:
 }
 ```
 
-| Status | Meaning |
-|--------|---------|
-| `200` | Success |
-| `404` | Resource not found |
-| `500` | Internal server error |
+ Status Meaning 
+ `200` Success 
+ `404`  Resource not found 
+ `500`  Internal server error 
 
 ---
 
