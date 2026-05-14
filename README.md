@@ -2,19 +2,16 @@
 
 ##  Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | Flutter Web, Dart |
-| UI Library | Material 3, Google Fonts (Poppins) |
-| HTTP | `http` package (Dart) |
-| Backend | Node.js, Express.js |
-| CORS | `cors` npm package |
-| Data | In-memory dummy JSON array |
-| Deployment (Frontend) | Netlify |
-| Deployment (Backend) | Render |
-```
+ Layer  Technology 
+ Frontend Flutter Web, Dart 
+ UI Library  Material 3, Google Fonts (Poppins) 
+ HTTP  `http` package (Dart) 
+Backend Node.js, Express.js 
+CORS  `cors` npm package 
+Data  In-memory dummy JSON array 
+ Deployment Frontend  Netlify 
+ Deployment :Backend  Render 
 
----
 
 ##  Quick Start
 
@@ -84,11 +81,11 @@ cd frontend && flutter run -d chrome
 
 ##  API Endpoints
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | `/` | Health check |
-| GET | `/schools` | Get all schools |
-| GET | `/schools/:id` | Get school by ID |
+Method  Endpoint  Description 
+
+ GET `/`  Health check 
+ GET  `/schools`  Get all schools 
+ GET  `/schools/:id`  Get school by ID 
 
 ### Sample Response — `GET /schools`
 
