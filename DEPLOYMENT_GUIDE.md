@@ -1,11 +1,10 @@
-# 🚀 Deployment Guide
+#  Deployment Guide
 
 ## Overview
 
-| Part | Platform | Cost |
-|------|----------|------|
-| Backend (Node.js) | [Render](https://render.com) | Free tier available |
-| Frontend (Flutter Web) | [Netlify](https://netlify.com) | Free tier available |
+Part  Platform  Cost 
+Backend (Node.js) [Render](https://render.com)  Free tier available 
+Frontend (Flutter Web)  [Netlify](https://netlify.com)  Free tier available 
 
 ---
 
@@ -125,7 +124,7 @@ Redeploy the backend after this change.
 
 ---
 
-## ✅ Deployment Checklist
+##  Deployment Checklist
 
 - [ ] Backend pushed to GitHub
 - [ ] Render Web Service created and running
@@ -137,7 +136,7 @@ Redeploy the backend after this change.
 
 ---
 
-## 🔁 Updating After Changes
+## Updating After Changes
 
 **Backend change:**
 ```bash
